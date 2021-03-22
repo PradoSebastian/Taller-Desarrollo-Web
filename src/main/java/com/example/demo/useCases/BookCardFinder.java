@@ -1,8 +1,8 @@
 package com.example.demo.useCases;
 
-import com.example.demo.services.Formater;
+import com.example.demo.services.formater.Formater;
 import com.example.demo.models.Book;
-import com.example.demo.services.Sender;
+import com.example.demo.services.formater.Sender;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

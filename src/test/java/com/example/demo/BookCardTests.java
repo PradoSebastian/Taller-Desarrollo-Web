@@ -2,10 +2,6 @@ package com.example.demo;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import com.example.demo.services.RaleyEmailSender;
-import com.example.demo.services.HtmlFormater;
-import com.example.demo.services.JsonFormater;
-import com.example.demo.services.XmlFormater;
 import com.example.demo.useCases.BookCardFinder;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
